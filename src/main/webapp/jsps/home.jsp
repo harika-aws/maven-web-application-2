@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Mithun Technologies Private Limited. Bengaluru,Karnataka,India </h1>
-<h1 align="center"> Mithun Technologies-Good Training center for DevOps with AWS i edited</h1>
+<h1 align="center"> Mithun Technologies-Good Training center for DevOps with AWS very nicd socahing</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
